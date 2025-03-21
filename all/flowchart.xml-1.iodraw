@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZRBpm-YqkGiOmISY9-DR" name="第 2 页">
-    <mxGraphModel dx="1042" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,63 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-45" value="宠物信息界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218" y="720" width="259" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-46" value="健康提醒界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="868" width="625" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-47" value="查看健康提醒操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="893" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-48" value="查看详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="992" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-49" value="更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="992" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-50" value="删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="992" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-51" value="修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="516" y="992" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-52" value="进行健康提醒操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="253" y="745" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ls00XehDYPNcv9acs5wd-52" target="ls00XehDYPNcv9acs5wd-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ls00XehDYPNcv9acs5wd-47" target="ls00XehDYPNcv9acs5wd-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ls00XehDYPNcv9acs5wd-47" target="ls00XehDYPNcv9acs5wd-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1.02;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="ls00XehDYPNcv9acs5wd-47" target="ls00XehDYPNcv9acs5wd-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ls00XehDYPNcv9acs5wd-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ls00XehDYPNcv9acs5wd-47" target="ls00XehDYPNcv9acs5wd-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="967" />
             </Array>
           </mxGeometry>
         </mxCell>
