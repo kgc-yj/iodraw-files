@@ -50,6 +50,57 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-11" value="购买物品界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234" y="290" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-12" value="查看所有用户购买的详细信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="187" y="388" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-13" value="查看详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="504" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-14" value="更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="504" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-15" value="删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="338" y="504" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-16" value="搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="481" y="504" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ew6pjFYjgCXk_sUwZwC9-11" target="ew6pjFYjgCXk_sUwZwC9-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ew6pjFYjgCXk_sUwZwC9-12" target="ew6pjFYjgCXk_sUwZwC9-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ew6pjFYjgCXk_sUwZwC9-12" target="ew6pjFYjgCXk_sUwZwC9-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="ew6pjFYjgCXk_sUwZwC9-12" target="ew6pjFYjgCXk_sUwZwC9-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew6pjFYjgCXk_sUwZwC9-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ew6pjFYjgCXk_sUwZwC9-12" target="ew6pjFYjgCXk_sUwZwC9-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
