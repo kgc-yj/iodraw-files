@@ -183,12 +183,6 @@
         <mxCell id="5QdF0g_4KJeRurJJs7uP-5" value="删除" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="390" y="118" width="64" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="5QdF0g_4KJeRurJJs7uP-10" value="搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="387" width="227" height="449" as="geometry" />
-        </mxCell>
-        <mxCell id="5QdF0g_4KJeRurJJs7uP-11" value="删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="387" width="196" height="326" as="geometry" />
-        </mxCell>
         <mxCell id="5QdF0g_4KJeRurJJs7uP-12" value="更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1529" y="387" width="195" height="326" as="geometry" />
         </mxCell>
