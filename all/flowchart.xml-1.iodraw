@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WwRioOwZ5qOj0pdXrCPe" name="第 3 页">
-    <mxGraphModel dx="2084" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,9 +179,6 @@
         </mxCell>
         <mxCell id="5QdF0g_4KJeRurJJs7uP-17" value="宠物名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="497" y="639" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="5QdF0g_4KJeRurJJs7uP-18" value="宠物种类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="672" y="639" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5QdF0g_4KJeRurJJs7uP-19" value="宠物图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="847" y="639" width="124" height="48" as="geometry" />
@@ -236,13 +233,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="614" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5QdF0g_4KJeRurJJs7uP-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5QdF0g_4KJeRurJJs7uP-16" target="5QdF0g_4KJeRurJJs7uP-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="735" y="614" />
             </Array>
           </mxGeometry>
         </mxCell>
