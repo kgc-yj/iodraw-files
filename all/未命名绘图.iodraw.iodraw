@@ -4,6 +4,65 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="5McrTRtcwmcrCnPkyRII-16" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="223" y="630" width="108" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-17" value="输入用户名和密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="189" y="728" width="176" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-18" value="系统验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="167" y="955" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-19" value="进入系统后台首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1188" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-20" value="弹窗提示原因" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="259" y="1140" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-21" value="清空密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="323" y="1335" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-16" target="5McrTRtcwmcrCnPkyRII-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-17" target="5McrTRtcwmcrCnPkyRII-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-24" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-18" target="5McrTRtcwmcrCnPkyRII-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="1103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-25" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-18" target="5McrTRtcwmcrCnPkyRII-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="331" y="1103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-20" target="5McrTRtcwmcrCnPkyRII-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="331" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5McrTRtcwmcrCnPkyRII-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=1;entryY=0.85;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5McrTRtcwmcrCnPkyRII-21" target="5McrTRtcwmcrCnPkyRII-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439" y="1310" />
+              <mxPoint x="439" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
