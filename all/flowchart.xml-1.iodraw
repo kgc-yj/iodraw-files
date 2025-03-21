@@ -180,9 +180,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ls00XehDYPNcv9acs5wd-46" value="健康提醒界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="868" width="625" height="197" as="geometry" />
-        </mxCell>
         <mxCell id="ls00XehDYPNcv9acs5wd-47" value="查看健康提醒操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="254" y="893" width="188" height="48" as="geometry" />
         </mxCell>
