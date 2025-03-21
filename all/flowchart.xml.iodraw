@@ -4,6 +4,57 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="9HykobHoxfXBFNWI7-NF-19" value="管理员输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="1150" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-20" value="判断用户名密码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="1248" width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-21" value="进入系统后台首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1545" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-22" value="弹窗提示登录失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="259" y="1545" width="221" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-23" value="清空密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381" y="1644" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HykobHoxfXBFNWI7-NF-19" target="9HykobHoxfXBFNWI7-NF-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="1223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-25" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HykobHoxfXBFNWI7-NF-20" target="9HykobHoxfXBFNWI7-NF-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="1509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-26" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HykobHoxfXBFNWI7-NF-20" target="9HykobHoxfXBFNWI7-NF-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="1509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.21;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HykobHoxfXBFNWI7-NF-22" target="9HykobHoxfXBFNWI7-NF-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="1619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HykobHoxfXBFNWI7-NF-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=-0.01;entryX=0.92;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HykobHoxfXBFNWI7-NF-23" target="9HykobHoxfXBFNWI7-NF-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="1619" />
+              <mxPoint x="516" y="1223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
